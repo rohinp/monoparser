@@ -2,3 +2,18 @@
 target
 project/target
 repositories
+
+# emacs ide files
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# metals files
+.bloop/
+.metals/
+project/.bloop/
