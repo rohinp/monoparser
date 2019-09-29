@@ -3,7 +3,6 @@ package core
 import org.scalatest._
 import org.scalatest.Matchers._
 
-
 class ParserSpec extends WordSpec {
 
   "Parser" can {
