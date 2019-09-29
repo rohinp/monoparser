@@ -3,7 +3,7 @@ lazy val root = project
 .settings(
   name := "monoparser",
   organization := "org.ikaee",
-  crossScalaVersions := Seq("2.12.9", "2.13.1"),
+  scalaVersion := "2.12.8",
   version := "0.1"
 )
 
